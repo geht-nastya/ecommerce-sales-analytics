@@ -56,3 +56,17 @@ Python используется как оболочка для выполнен�
 ## Статус
 
 Основные KPI, анализ динамики продаж, товарного ассортимента, стран и повторных клиентов рассчитаны с помощью SQL.
+
+## Visualizations
+
+### Monthly Revenue
+
+![Monthly Revenue](charts/monthly_revenue.png)
+
+### Top 10 Products by Revenue
+
+![Top 10 Products by Revenue](charts/top_products_revenue.png)
+
+### Revenue by Country
+
+![Revenue by Country](charts/revenue_by_country.png)
